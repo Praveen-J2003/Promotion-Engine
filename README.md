@@ -1,6 +1,6 @@
 # 🛒 Promotion Engine
 
-A simple, extensible Promotion Engine built with Java and Spring Boot that calculates the total price of a shopping cart after applying active promotional discounts.
+A simple, extensible Promotion Engine built with Java that calculates the total price of a shopping cart after applying active promotional discounts.
 
 ---
 
