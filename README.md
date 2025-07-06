@@ -74,7 +74,7 @@ class PromotionEngine {
 Scenario	            Cart Items	          Expected Total
 A	                  1 A, 1 B, 1 C	            100
 B	                  5 A, 5 B, 1 C	            370
-C	                  3 A, 5 B, 1 C, 1 D	      280
+C	                  3 A, 5 B, 1 C, 1 D	    280
 
 Tests written using JUnit 5 in PromotionEngineTest.java
 
@@ -118,7 +118,7 @@ Commit Message	                          Description
 Add CartItem and Cart model	        Data structure for cart
 Add BulkPromotion class	            Bulk discount logic
 Write test for 3 A's promo	        TDD for bulk promotion
-Implement PromotionEngine	          Core engine logic
+Implement PromotionEngine	         Core engine logic
 Add test for Scenario A	            End-to-end integration test
 
 📦 Deployment
